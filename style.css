@@ -1,0 +1,133 @@
+.container{
+    margin-bottom: 100px;
+   }
+   .sign-in{
+       color: white;
+       background-color: rgb(57, 235, 146);
+       border: none;
+       border-radius: 28px;
+       
+   }
+   .white-bg{
+       background-color: rgb(243, 240, 237);
+   }
+   .learn{
+       color: rgba(240, 196, 3, 0.973);
+   }
+   .line{
+       color: green;
+   }
+   strong{
+       color: rgb(57, 235, 146);
+   }
+   .nav-link{
+       font-weight: 700;
+   }
+   
+   .Courses{
+       color: midnightblue;
+   }
+   
+   .container img{
+       margin-left: 2px;
+       margin-right: 2px;
+       margin-top: 30px;
+   }
+   .text-center
+   {
+       color: navy;
+   }
+   .box-topis {
+       background-color:  #eaf1ee ;
+       border: 10px solid white;
+       border-radius: 18px;
+       padding: 8px;
+       
+   }
+   .student-box {
+       border-radius: 10px;
+       border: none;
+       box-shadow: 7px 7px 10px rgb(192, 183, 183);
+       background-color: white;
+   }
+   .online{
+       color: midnightblue;
+       font-weight: 700;
+   }
+   .calendar-people-logo {
+       width: 18px;
+       align-items: center;
+   }
+   .Get-started{
+       color: white;
+       background-color: rgb(57, 235, 146);
+       border: none;
+       border-radius: 28px;
+       padding: 6px 25px;
+   }
+   
+   .card-body h5{
+       color: mediumblue;
+   }
+   .card {
+       padding: 15px;
+       border: none;
+       box-shadow: 8px 8px 10px lightgray;
+       border-radius: 30px;
+   }
+   .card-title h3{
+       color: rgba(11, 43, 223, 0.925);
+   }
+   .sign-in{
+       color: white;
+       background-color: rgb(57, 235, 146);
+       border: none;
+       border-radius: 28px;
+       padding: 6px 25px;
+   
+   }
+   .carousel-item{
+       padding: 20px 40px;
+   }
+   
+   }
+   .card-footer {
+       border: none;
+       border-top: none;
+       background-color: white;
+   }
+   .card-title{
+       font-weight: 700;
+       color: rgba(80, 80, 161, 0.781);
+   }
+   h2 {
+       margin-bottom: 30px;
+       text-align: center;
+       font-weight: bold;
+   }
+   .col-md-7{
+       font-weight: 700;
+   }
+   .man-image img{
+       width: 100px;
+   }
+   .footer-bg {
+       
+       background-color: rgb(43, 41, 41);
+       color: white;
+       height: 100%;
+   }
+   .footer-items {
+       
+       padding: 50px 0px;
+   }
+   .footer-text {
+       
+       padding: 10px;
+       margin-left: 40px ;
+   }
+   
+   footer {
+       text-align: center;
+   }
+   
